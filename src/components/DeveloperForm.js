@@ -32,7 +32,7 @@ function DeveloperForm({ dispatch }) {
          
         </select>
         <select name="tech">
-          <option value='not selected'>Technology...</option>
+          <option value='not selected'>Select Technology...</option>
           <option value="React">React</option>
           <option value="Angular">Angular</option>
           <option value="Node">Node</option>
